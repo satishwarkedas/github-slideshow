@@ -2,5 +2,5 @@
 layout: slide
 title: "Wecome to our second slide!"
 ---
-This is an interesting way to learn Github
+A bit confusing as well!
 Use the left arrow to go back!
